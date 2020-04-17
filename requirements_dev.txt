@@ -1,0 +1,11 @@
+pip
+wheel
+watchdog
+flake8
+coverage
+twine
+pytest
+pytest-runner
+tox
+databricks-cli
+autopep8
